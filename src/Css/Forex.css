@@ -1,0 +1,12 @@
+.w1{
+
+    width: 100%;
+}
+
+.font{
+    font-family: 'Prompt', sans-serif;
+    overflow-y: overlay;
+    overflow-y: auto;
+    min-height: 0;
+  
+}
